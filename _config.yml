@@ -1,5 +1,5 @@
-favicon: /favicon.ico
-avatar: /favicon.png
+favicon: img/favicon.ico
+avatar: img/favicon.png
 katex: false
 
 menus:
